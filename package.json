@@ -1,0 +1,14 @@
+{
+  "name": "custom-video-player",
+  "version": "1.0.0",
+  "description": "Custom video player using the HTML5 video element and it's JavaScript API with a custom design",
+  "main": "script.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
